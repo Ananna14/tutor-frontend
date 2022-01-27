@@ -1,0 +1,22 @@
+.img-fluid{
+  width:1400px
+}
+.img{
+   margin-left: 140px;
+}
+.btn-color{
+  background-color: #dc3545;
+  color: white;
+}
+.btn-color:hover{
+  background-color: #dc3545;
+}
+.input-design{
+  margin-left: 100px;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 100px;
+}
+/* https://i.ibb.co/nbPmCNc/Capture.png
+https://i.ibb.co/Gssbqyb/Capture.png
+https://i.ibb.co/NnNQ7Ct/Capture.png */

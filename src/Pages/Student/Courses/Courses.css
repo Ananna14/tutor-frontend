@@ -1,0 +1,22 @@
+.product{
+    display: flex;
+    margin-left: 20px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+/* form-style-start */
+/* .form-added{
+    display: flex;
+    flex-direction: column;
+    margin-left: 200px;
+} */
+.form-added input{
+    width: 100%;
+    margin: 8px;
+}
+.form-added textarea{
+    width: 100%;
+    margin: 8px;
+}
+/* form-style-end */
